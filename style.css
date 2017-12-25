@@ -1,0 +1,11 @@
+.merry {
+  height: 500px;
+  width: 500px;
+  background-color: green;
+
+}
+
+.message {
+  color: red;
+  text-align: center;
+}
